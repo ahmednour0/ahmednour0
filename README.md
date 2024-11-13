@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="left">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11ADF7&width=435&lines=Front-End+Developer;Web+Designer](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&duration=3500&pause=1000&color=F7F7F7&width=590&lines=Front-End+and+Cross-Platform+Developer;Web+Designer" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11ADF7&width=585&lines=Front-End+Developer;Web+Designer](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&duration=3500&pause=1000&color=F7F7F7&width=590&lines=Front-End+and+Cross-Platform+Developer;Web+Designer" alt="Typing SVG" /></a>
 </p> 
 
 - 🏆 I'm an ITI graduate. 
