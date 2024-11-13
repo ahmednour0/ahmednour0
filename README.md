@@ -11,7 +11,7 @@
 
 - 🏆 I'm an ITI graduate. 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML, CSS and JavaScript or anything related to web development, including any work you've done with React Native.
+- 💬 Ask me about your experience with HTML, CSS, JavaScript, and any work with React Native or web development.
 - 👻 Fun Fact: my perfect day would start and end with a tasty meal.
 
 
