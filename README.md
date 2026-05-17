@@ -19,6 +19,7 @@
 ### Connect with Me :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmednoureldeen/)](https://www.linkedin.com/in/ahmednoureldeen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmednour3123@gmail.com)](mailto:ahmednour3123@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://ahmednour3123.netlify.app/)
 [![Read.cv Badge](https://img.shields.io/badge/Read.cv-111?logo=readdotcv&logoColor=fff&style=flat)](https://drive.google.com/drive/folders/1YEz-nD7dUIhBEuR8WmtJkbmHe6nKGDNz)
 ### Languages and Tools 🛠 : 
 
